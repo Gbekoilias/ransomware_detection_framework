@@ -23,7 +23,10 @@ This repository hosts the research project **"Ransomware Detection and Mitigatio
 
 ## Framework Architecture
 
-![Framework Architecture](https://www.imperva.com/learn/wp-content/uploads/sites/13/2017/07/Detection-Figure3.png)
+<p align="center">
+  <img src="https://www.imperva.com/learn/wp-content/uploads/sites/13/2017/07/Detection-Figure3.png" alt="Framework Architecture">
+</p>
+
 
 The proposed framework consists of several interconnected modules:
 
